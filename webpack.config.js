@@ -5,7 +5,7 @@ const webpack = require('webpack');
 
 const config = {
   entry: [
-    './src/index.tsx'
+    './src/index.ts'
   ],
   output: {
     path: __dirname + '/dist',
