@@ -1,8 +1,8 @@
 {
-  "name": "react-apollo",
+  "name": "webpack-ts-sass",
   "author": "Danitt <dan@danitt.com>",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
   "main": "index.js",
   "repository": {},
   "homepage": "https://www.danitt.com",
